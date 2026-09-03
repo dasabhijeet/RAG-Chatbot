@@ -75,6 +75,9 @@ The chatbot also keeps recent conversation history for follow-up questions.
 * OpenRouter
 * PyPDF
 
+## Working Screenshot:
+<img width="1502" height="682" alt="image" src="https://github.com/user-attachments/assets/67155d79-fe0f-4125-8117-245888e22d8d" />
+
 ## Note
 
 This is a simple RAG implementation using in-memory vector search. It is intended for learning and small datasets. API endpoint implementation i.e. Flask or FastAPI is not yet added, will be added in future. For now, it works fine on terminal. Also it is easy to understand by keeping out API endpoints, for now.
